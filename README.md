@@ -4,12 +4,11 @@ Player de música. O projeto faz parte do desafio proposto pelo site [devchallen
 
 Para conferir o resultado, clique [aqui](https://guess-the-word-game-eta.vercel.app/).
 
-A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/36).
+A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/music-player).
 
 ## Tecnologias utilizadas 🖥️
 
-<!-- HTML5, CSS, Javascript, JSDoc. Tive dificuldades para o desenvolvimento da lógica. -->
+HTML5, CSS, Javascript, JSDoc. O projeto me proporcionou uma experência muito diferente. Tive a oportunidade de conhecer o evento *ontimeupdate* do Javascript.
 
 ## Referências 🔗
-<!-- * [Como misturar um array em JavaScript?](https://pt.stackoverflow.com/questions/94646/como-misturar-um-array-em-javascript)
-* [Fisher–Yates Shuffle](https://bost.ocks.org/mike/shuffle/) -->
+* [Criando um Player de Música com JavaScript](https://www.youtube.com/watch?v=44-NQW25BZk)

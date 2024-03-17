@@ -1,0 +1,16 @@
+{
+    "musics": [
+        {
+            "title":"Lost in the City Lights",
+            "author":"Cosmo Sheldrake",
+            "music_file":"./assets/audio/lost-in-city-lights-145038.mp3",
+            "image_file":"./assets/img/cover-1.png"
+        },
+        {
+            "title":"Forest Lullaby",
+            "author":"Cosmo Sheldrake",
+            "music_file":"./assets/audio/forest-lullaby-110624.mp3",
+            "image_file":"./assets/img/cover-2.png"
+        }
+    ]
+}

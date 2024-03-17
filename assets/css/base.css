@@ -4,7 +4,7 @@
 @import url(_variaveis.css);
 
 /* arquivos dos estilos da página */
-/* @import url(game_panel.css); */
+@import url(player_container.css);
 
 :root{
 	font-family: var(--fonte-padrao);
@@ -17,4 +17,27 @@ body{
 	align-items: center;
 	width: 100vw;
 	min-height: 100vh;
+	background-image: url('../img/bg.jpg');
 }
+
+/*classes para espaçamento*/
+.mg-bottom8{
+	margin-bottom: 8px;	
+}
+
+.mg-bottom16{
+	margin-bottom: 16px;	
+}
+
+.mg-bottom24{
+	margin-bottom: 24px;	
+}
+
+.mg-bottom32{
+	margin-bottom: 32px;	
+}
+
+.mg-bottom40{
+	margin-bottom: 40px;	
+}
+
